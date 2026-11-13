@@ -1,2 +1,8 @@
 .DS_Store
 node_modules/
+
+node_modules/
+dist/
+.tmp/
+context-capture.json
+.DS_Store
